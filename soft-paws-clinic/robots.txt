@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /ar/admin
+Disallow: /en/admin
+
+Sitemap: https://nassifmhm302-beep.github.io/soft-paws-clinic/sitemap.xml
