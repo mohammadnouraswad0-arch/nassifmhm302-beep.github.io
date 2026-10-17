@@ -1,4 +1,4 @@
-:HL["/soft-paws-clinic/_next/static/chunks/11m1.1q4x~vok.css","style"]
+:HL["/soft-paws-clinic/_next/static/chunks/0evffya9avz2v.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap","style"]
 :HL["https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"team","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dr-zeina-simbawa","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"8fH-kf5YC4dk7yFZup7C_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"team","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dr-zeina-simbawa","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Asf3N6NmKYCZ6bB_fORew"}
