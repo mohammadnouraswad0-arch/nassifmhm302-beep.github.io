@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/soft-paws-clinic/_next/static/chunks/01xlw8hd842-c.js","/soft-paws-clinic/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/soft-paws-clinic/_next/static/chunks/01xlw8hd842-c.js","/soft-paws-clinic/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[null,["$","div",null,{"dir":"rtl","lang":"ar","className":"min-h-screen flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9PAbdPCe8Xus6Hd9ZA47_"}
