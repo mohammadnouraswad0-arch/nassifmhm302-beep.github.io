@@ -1,0 +1,7 @@
+:HL["/pet-friend-clinic/_next/static/chunks/2adkdi_r8csce.css","style"]
+:HL["/pet-friend-clinic/fonts/ibm-arabic-400.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/pet-friend-clinic/fonts/ibm-arabic-700.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"preview-01","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"team","h":131136,"c":"$Q2"}]]
+0:{"b":"Jo4nt650jY5Xrxs2RgDrB","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

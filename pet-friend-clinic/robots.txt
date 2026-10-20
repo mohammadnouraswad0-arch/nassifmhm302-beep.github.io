@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /booking/status/
+Disallow: /booking/success/
+
+Sitemap: https://nassifmhm302-beep.github.io/pet-friend-clinic/sitemap.xml
