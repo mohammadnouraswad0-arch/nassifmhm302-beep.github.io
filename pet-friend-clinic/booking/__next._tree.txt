@@ -1,6 +1,6 @@
-:HL["/pet-friend-clinic/_next/static/chunks/1l11ul56aw376.css","style"]
+:HL["/pet-friend-clinic/_next/static/chunks/3p0552zjasqmb.css","style"]
 :HL["/pet-friend-clinic/fonts/ibm-arabic-400.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/pet-friend-clinic/fonts/ibm-arabic-700.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"booking","h":64,"c":"$Q2"}]]
-0:{"b":"3y3mRq3JekaWBABeqts3N","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"cnwCrno3E3TZjXgxFQkJm","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
